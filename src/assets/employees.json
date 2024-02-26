@@ -1,0 +1,20 @@
+[
+  {
+    "id": "A621",
+    "firstName": "RJ",
+    "lastName": "Barrientos",
+    "isActive": true
+  },
+  {
+    "id": "A622",
+    "firstName": "Immanuel",
+    "lastName": "Ocampo",
+    "isActive": false
+  },
+  {
+    "id": "B002",
+    "firstName": "Jonathan",
+    "lastName": "Velasco",
+    "isActive": true
+  }
+]
